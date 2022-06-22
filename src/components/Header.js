@@ -1,0 +1,9 @@
+import "../scss/Header.scss"
+
+function Header() {
+    return (
+        <div>Header</div>
+    )
+}
+
+export default Header
