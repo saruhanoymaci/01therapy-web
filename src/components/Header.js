@@ -2,7 +2,7 @@ import "../scss/Header.scss"
 
 function Header() {
     return (
-        <div>Header</div>
+        <div>Header 1</div>
     )
 }
 
